@@ -1,101 +1,120 @@
-# 🚀 Abhishek Pisal
+<div align="center">
 
-### DevOps Engineer \| Cloud & Automation Specialist
+# Abhishek Pisal
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+Cloud+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;Automation+Enthusiast" />`{=html}
-```{=html}
-</p>
-```
+### DevOps Engineer · Cloud & Automation Specialist
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Cloud+Specialist;Terraform+%7C+Docker+%7C+Kubernetes;Automate+Everything+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekpisal7)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhishek Pisal** 👋
+Hi there! I'm **Abhishek Pisal** — a passionate DevOps Engineer focused on building reliable, automated, and scalable cloud infrastructure.
 
-I am a passionate **DevOps Engineer** with strong expertise in cloud
-infrastructure, automation, and system reliability.
+I thrive at the intersection of development and operations, turning complex infrastructure challenges into elegant, automated solutions.
 
-I specialize in: - ☁️ Cloud-native architecture design on AWS\
-- 🛠 Infrastructure as Code (Terraform & Ansible)\
-- 🔄 CI/CD pipeline automation\
-- 🐳 Containerized deployments\
-- 📊 Monitoring & observability
+```yaml
+Current Focus:
+  - Cloud-native architecture on AWS
+  - Infrastructure as Code (Terraform & Ansible)
+  - CI/CD pipeline automation
+  - Containerized workloads & Kubernetes
+  - Monitoring, alerting & observability
+```
 
-> Automate Everything • Secure by Design • Build for Scale
+> *"Automate Everything • Secure by Design • Build for Scale"*
 
-------------------------------------------------------------------------
+---
 
-## 🛠️ DevOps Toolbox
+## 🛠️ Tech Stack
 
-### ☁️ Cloud
+<div align="center">
 
--   AWS (EC2, S3, IAM, VPC, RDS, ALB, Auto Scaling, CloudWatch)
+### ☁️ Cloud & Infrastructure
 
-### 🏗 Infrastructure as Code
-
--   Terraform\
--   Ansible
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🔄 CI/CD
 
--   Jenkins\
--   GitHub Actions
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 
--   Docker\
--   Kubernetes
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 📊 Monitoring & Observability
 
--   Prometheus\
--   Grafana\
--   CloudWatch
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 ### 🐧 Core Skills
 
--   Linux Administration\
--   Networking (VPC, Subnets, NAT, Security Groups)\
--   Bash\
--   Python\
--   Git & GitHub
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🔹 Three-Tier AWS Infrastructure
+### 🏗️ Three-Tier AWS Infrastructure
 
--   Designed production-grade 3-tier architecture (Web, App, DB)
--   Implemented using Terraform
--   Configured ALB, Auto Scaling & NAT Gateway
--   Multi-AZ deployment for high availability
--   IAM-based security and controlled access
+> Production-grade cloud infrastructure built with Terraform
 
-------------------------------------------------------------------------
+| Component | Details |
+|-----------|---------|
+| **Architecture** | Web · App · Database (3-tier) |
+| **IaC Tool** | Terraform |
+| **Load Balancing** | Application Load Balancer (ALB) |
+| **Scaling** | Auto Scaling Groups |
+| **Networking** | Multi-AZ · NAT Gateway · VPC |
+| **Security** | IAM roles · Security Groups · Least Privilege |
 
-## 📈 GitHub Stats
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekpisal7/THREE-TIRE-AWS-INFRA)
 
-Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username:
+---
 
-![GitHub
-Stats](https://github.com/Abhishekpisal7/THREE-TIRE-AWS-INFRA)
+## 📊 GitHub Stats
 
-------------------------------------------------------------------------
+<div align="center">
 
-## 🌐 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishekpisal7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekpisal7&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
--   💼 LinkedIn: Add your link\
--   📧 Email: Add your email\
--   🌍 Portfolio: Add your portfolio link
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekpisal7&theme=tokyonight&hide_border=true" height="160"/>
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## ⚡ DevOps Philosophy
 
-> "Infrastructure should be scalable, automated, secure, and resilient
-> by default."
+<div align="center">
+
+*"Infrastructure should be scalable, automated, secure, and resilient by default."*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ If you find my work useful, consider giving a star!</sub>
+</div>
